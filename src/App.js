@@ -61,7 +61,7 @@ function App() {
   }, []);
 
   return (
-    <div className='d-flex flex-column' style={{ minHeight: "100vh" }}>
+    <div className='d-flex flex-column bg-body-secondary' style={{ minHeight: "100vh" }}>
       <div className='d-flex justify-content-center'>
         <div className='col-sm-8 col-md-7 col-lg-4 col-10 py-4 position-relative'>
           <InputGroup>
