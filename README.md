@@ -6,3 +6,5 @@ Frontend technologies I used in this project:
 - JavaScript (Axios.js, React.js [React-Bootstrap])
 
 I have used TheCocktailDB in this project.
+
+Live: https://give-me-cocktails.vercel.app/
